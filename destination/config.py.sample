@@ -1,0 +1,5 @@
+#!/usr/bin/python
+# coding: utf-8
+
+HIPCHAT_TOKEN = ''
+HIPCHAT_ROOM_ID = 0
